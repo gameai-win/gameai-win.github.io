@@ -1,0 +1,10 @@
+node_modules
+.idea
+
+# VSCode
+.vscode
+
+# Vuepress generated static page
+docs/.vuepress/dist
+keys/
+
