@@ -134,6 +134,9 @@ xbox.axis(xbox.RIGHT, 270, 200)
 ## 让我们来实战一下?
 * 在lua目录下我们建一个 study 目录
 * 在刚刚建议的 study 目录下创建一个 challenge.lua 文件 和一个 res 目录   
+
+--------------
+
 ```lua
 -- challenge.lua
 
@@ -155,3 +158,5 @@ end
 
 ```
 
+
+--------------

@@ -129,10 +129,11 @@ xbox.axis(xbox.RIGHT, 270, 200)
 ````
 
 
-
 ## Let's try it out?
 * In the lua directory we create a study directory  
 * Create a challenge.lua file and a res directory in the study directory just suggested   
+--------------
+
 ```lua
 --challenge.lua
 
@@ -153,3 +154,5 @@ function main()
 end
 
 ```
+
+--------------
