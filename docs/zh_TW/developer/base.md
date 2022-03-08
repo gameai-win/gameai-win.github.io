@@ -65,7 +65,17 @@ sleep(200) -- 等待0.2秒
 print("Hello World!")
 ```
 
-
+### load_module
+#### Load a module
+加载一个三方库，成功加载以后，你可以使用三方库提供的功能函数
+````lua
+local ret = load_module( _PATH  .. "base.psr",_ENV)
+if ret then
+    print("load module success")
+else
+    print("load module failed")
+end
+````
 -----
 ##  op
 ### Ver  

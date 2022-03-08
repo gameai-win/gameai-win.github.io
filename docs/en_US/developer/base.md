@@ -65,6 +65,17 @@ sleep(200) -- wait 0.2 seconds
 print("Hello World!")
 ````
 
+### load_module
+#### Load a module
+Load a three-party library from the script directory. Once successfully loaded, you can use the functions provided by the three-party library
+````lua
+local ret = load_module( _PATH  .. "base.psr",_ENV)
+if ret then
+    print("load module success")
+else
+    print("load module failed")
+end
+````
 
 -----
 ## op
