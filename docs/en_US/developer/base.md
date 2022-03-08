@@ -191,3 +191,4 @@ Load a script module, after loading, you can use the functions provided by the m
 Ok, the basic introduction is over, choose your host below, and start to introduce the special functions of different hosts  
 ### [XBOX](xbox)  
 ### [PlayStation](playstation)  
+### [Switch](switch)  

@@ -192,3 +192,4 @@ op_ret = op.SetShowErrorMsg(0)
 好了，基础介绍完了，下面选择你的主机吧，开始介绍不同主机的特殊函数   
 ### [XBOX](xbox)  
 ### [PlayStation](playstation)  
+### [Switch](switch)  
