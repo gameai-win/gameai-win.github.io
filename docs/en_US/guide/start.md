@@ -11,13 +11,13 @@
 * You can now log in with the test account `test` password `test`   
 ![login](/console/login.png)   
 
-## Center console
+## Home
 ![online](/console/online.png)  
 `Online` `Offline` `Pause script` `Restart script` `Scheduled shutdown`  
 * Orange means the host is suspended, green means working, and grey means disabled.  
 ![pause](/console/pause.png) 
 
-## Add host
+## Add console
 1. Click the `+` button
 1. Enter the host name, host IP, port, user name, select the script   
 1. Click the `Save` icon in the upper right corner, `Save` host information    
@@ -51,6 +51,6 @@
 1. After the host is successfully connected, the selected script will be automatically started  
 1. If you want to change the script, please directly click the corresponding host in the host list, select the script, save it, and it will take effect immediately.  
 
-## Next
-1. If you need a custom script, please refer to [Scripting](/en_US/developer/base)
+## Costom script
+1. If you need a custom script, please refer to [developer](/en_US/developer/base)
 
