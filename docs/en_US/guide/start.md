@@ -38,6 +38,8 @@
 1. When you need to pair the host, please manually operate the host to reach the pairing page and check the pairing code 
 1. After successfully connecting to the host, the screen projection screen will be displayed
 
+### Switch
+1. Coming soon
 
 
 ## Connect to host
