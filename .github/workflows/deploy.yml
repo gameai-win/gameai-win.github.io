@@ -13,17 +13,33 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v2.3.0
+        with:
+          # 选择要使用的 node 版本
+          node-version: '14'
 
       - name: Install and Build
         run: |
           yarn install
           yarn build
 
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4.2.2
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          branch: gh-pages
-          folder: docs/.vuepress/dist
-          clean: true
-          git-config-name: github-actions[bot]
-          git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
+          repo: gameai-win/gameai-win.github.io
+          target_branch: gh-pages
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+#      - name: Deploy
+#        uses: JamesIves/github-pages-deploy-action@v4.2.2
+#        with:
+#          branch: gh-pages
+#          folder: docs/.vuepress/dist
+#          clean: true
+#          git-config-name: github-actions[bot]
+#          git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
