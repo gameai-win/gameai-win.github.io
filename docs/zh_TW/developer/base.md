@@ -13,6 +13,7 @@
 ## 主机库  
 * [xbox](./xbox.md)  
 * [playstation](./playstation.md)  
+* [Switch](switch)    
    
 ## 基础介绍   
    

@@ -13,7 +13,8 @@
 ## Host library  
 * [xbox](./xbox.md)  
 * [playstation](./playstation.md)  
-   
+* [Switch](switch)    
+
 ## Basic introduction  
    
 ### Scripting infrastructure  
