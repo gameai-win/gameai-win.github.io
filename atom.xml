@@ -3,7 +3,7 @@
   <id>https://umajs.github.io/</id>
   <title>GameAI.win</title>
   <subtitle>GameAI.win V is a collection of tools what will help you play game more enjoyably</subtitle>
-  <updated>2022-03-10T12:58:48.394Z</updated>
+  <updated>2022-03-10T13:04:32.805Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://umajs.github.io/atom.xml"/>
   <link rel="alternate" href="https://umajs.github.io/"/>
@@ -11,7 +11,7 @@
     <title type="html">LUA API</title>
     <id>https://umajs.github.io/en_US/developer/base.html</id>
     <link href="https://umajs.github.io/en_US/developer/base.html"/>
-    <updated>2022-03-10T12:59:08.432Z</updated>
+    <updated>2022-03-10T13:04:56.652Z</updated>
     <content type="html"><![CDATA[<h1 id="lua-api" tabindex="-1"> LUA API</h1>
 <ul>
 <li>The system is implemented using <a href="https://www.lua.org/manual/5.4/manual.html" target="_blank" rel="noopener noreferrer">Lua5.4</a>.</li>
@@ -195,7 +195,7 @@ file String: The name of the file to be saved, the place to save is generally th
     <title type="html">Playstation API List</title>
     <id>https://umajs.github.io/en_US/developer/playstation.html</id>
     <link href="https://umajs.github.io/en_US/developer/playstation.html"/>
-    <updated>2022-03-10T12:59:08.433Z</updated>
+    <updated>2022-03-10T13:04:56.652Z</updated>
     <content type="html"><![CDATA[<h1 id="playstation-api-list" tabindex="-1"> Playstation API List</h1>
 <h2 id="button-list" tabindex="-1"> Button list</h2>
 <div><pre style="background-color: #0d1117"><code><span><span style="color: #C9D1D9"> playstation.X</span></span>
@@ -298,7 +298,7 @@ time_ms: The time to keep after reaching the specified angle, in milliseconds, t
     <title type="html">Switch</title>
     <id>https://umajs.github.io/en_US/developer/switch.html</id>
     <link href="https://umajs.github.io/en_US/developer/switch.html"/>
-    <updated>2022-03-10T12:59:08.433Z</updated>
+    <updated>2022-03-10T13:04:56.653Z</updated>
     <content type="html"><![CDATA[<h1 id="switch" tabindex="-1"> Switch</h1>
 <h2 id="coming-soon" tabindex="-1"> Coming soon</h2>
 ]]></content>
@@ -307,7 +307,7 @@ time_ms: The time to keep after reaching the specified angle, in milliseconds, t
     <title type="html">常见问题</title>
     <id>https://umajs.github.io/en_US/guide/faq.html</id>
     <link href="https://umajs.github.io/en_US/guide/faq.html"/>
-    <updated>2022-03-10T12:59:08.433Z</updated>
+    <updated>2022-03-10T13:04:56.653Z</updated>
     <content type="html"><![CDATA[<h1 id="常见问题" tabindex="-1"> 常见问题</h1>
 <p>奇奇怪怪的问题和答案</p>
 ]]></content>
@@ -316,7 +316,7 @@ time_ms: The time to keep after reaching the specified angle, in milliseconds, t
     <title type="html">ask for help</title>
     <id>https://umajs.github.io/en_US/guide/help.html</id>
     <link href="https://umajs.github.io/en_US/guide/help.html"/>
-    <updated>2022-03-10T12:59:08.433Z</updated>
+    <updated>2022-03-10T13:04:56.653Z</updated>
     <content type="html"><![CDATA[<h1 id="ask-for-help" tabindex="-1"> ask for help</h1>
 <p>GameAI.win provides multiple ways to communicate.</p>
 <div><p>提示</p>
@@ -332,7 +332,7 @@ time_ms: The time to keep after reaching the specified angle, in milliseconds, t
     <title type="html">Download and install</title>
     <id>https://umajs.github.io/en_US/guide/install.html</id>
     <link href="https://umajs.github.io/en_US/guide/install.html"/>
-    <updated>2022-03-10T12:59:08.433Z</updated>
+    <updated>2022-03-10T13:04:56.653Z</updated>
     <content type="html"><![CDATA[<h1 id="download-and-install" tabindex="-1"> Download and install</h1>
 <h2 id="operating-system" tabindex="-1"> Operating system</h2>
 <p>GameAI.win is available in the following platforms:</p>
@@ -362,7 +362,7 @@ time_ms: The time to keep after reaching the specified angle, in milliseconds, t
     <title type="html">Quick Start</title>
     <id>https://umajs.github.io/en_US/guide/start.html</id>
     <link href="https://umajs.github.io/en_US/guide/start.html"/>
-    <updated>2022-03-10T12:59:08.433Z</updated>
+    <updated>2022-03-10T13:04:56.654Z</updated>
     <content type="html"><![CDATA[<h1 id="quick-start" tabindex="-1"> Quick Start</h1>
 <h2 id="download" tabindex="-1"> Download</h2>
 <p><a href="/en_US/guide/install.html">Download and install</a> After installing GameAI.win, you need to register an account.</p>
@@ -431,7 +431,7 @@ time_ms: The time to keep after reaching the specified angle, in milliseconds, t
     <title type="html">LUA API</title>
     <id>https://umajs.github.io/zh_TW/developer/base.html</id>
     <link href="https://umajs.github.io/zh_TW/developer/base.html"/>
-    <updated>2022-03-10T12:59:08.434Z</updated>
+    <updated>2022-03-10T13:04:56.654Z</updated>
     <content type="html"><![CDATA[<h1 id="lua-api" tabindex="-1"> LUA API</h1>
 <ul>
 <li>系统采用<a href="https://www.lua.org/manual/5.4/manual.html" target="_blank" rel="noopener noreferrer">Lua5.4</a>实现。</li>
@@ -621,7 +621,7 @@ file 字符串:保存的文件名,保存的地方一般为SetPath中设置的目
     <title type="html">Playstation API 列表</title>
     <id>https://umajs.github.io/zh_TW/developer/playstation.html</id>
     <link href="https://umajs.github.io/zh_TW/developer/playstation.html"/>
-    <updated>2022-03-10T12:59:08.434Z</updated>
+    <updated>2022-03-10T13:04:56.654Z</updated>
     <content type="html"><![CDATA[<h1 id="playstation-api-列表" tabindex="-1"> Playstation API 列表</h1>
 <h2 id="按钮" tabindex="-1"> 按钮</h2>
 <h3 id="按钮列表" tabindex="-1"> 按钮列表</h3>
@@ -725,7 +725,7 @@ time_ms: 到指定角度后保持的时间，单位毫秒，默认为50毫秒</p
     <title type="html">Switch</title>
     <id>https://umajs.github.io/zh_TW/developer/switch.html</id>
     <link href="https://umajs.github.io/zh_TW/developer/switch.html"/>
-    <updated>2022-03-10T12:59:08.434Z</updated>
+    <updated>2022-03-10T13:04:56.654Z</updated>
     <content type="html"><![CDATA[<h1 id="switch" tabindex="-1"> Switch</h1>
 <h2 id="coming-soon" tabindex="-1"> Coming soon</h2>
 <h3 id="wait" tabindex="-1"> wait</h3>
@@ -754,7 +754,7 @@ print(&quot;Hello World!&quot;)
     <title type="html">XBOX</title>
     <id>https://umajs.github.io/zh_TW/developer/xbox.html</id>
     <link href="https://umajs.github.io/zh_TW/developer/xbox.html"/>
-    <updated>2022-03-10T12:59:08.434Z</updated>
+    <updated>2022-03-10T13:04:56.655Z</updated>
     <content type="html"><![CDATA[<h1 id="xbox" tabindex="-1"> XBOX</h1>
 <h2 id="按钮" tabindex="-1"> 按钮</h2>
 <h3 id="按钮列表" tabindex="-1"> 按钮列表</h3>
@@ -882,7 +882,7 @@ time_ms: 到指定角度后保持的时间，单位毫秒，默认为50毫秒</p
     <title type="html">常见问题</title>
     <id>https://umajs.github.io/zh_TW/guide/faq.html</id>
     <link href="https://umajs.github.io/zh_TW/guide/faq.html"/>
-    <updated>2022-03-10T12:59:08.434Z</updated>
+    <updated>2022-03-10T13:04:56.655Z</updated>
     <content type="html"><![CDATA[<h1 id="常见问题" tabindex="-1"> 常见问题</h1>
 <p>奇奇怪怪的问题和答案</p>
 ]]></content>
@@ -891,7 +891,7 @@ time_ms: 到指定角度后保持的时间，单位毫秒，默认为50毫秒</p
     <title type="html">寻求帮助</title>
     <id>https://umajs.github.io/zh_TW/guide/help.html</id>
     <link href="https://umajs.github.io/zh_TW/guide/help.html"/>
-    <updated>2022-03-10T12:59:08.434Z</updated>
+    <updated>2022-03-10T13:04:56.655Z</updated>
     <content type="html"><![CDATA[<h1 id="寻求帮助" tabindex="-1"> 寻求帮助</h1>
 <p>GameAI.win 提供了多种方式进行交流。</p>
 <div><p>提示</p>
@@ -907,7 +907,7 @@ time_ms: 到指定角度后保持的时间，单位毫秒，默认为50毫秒</p
     <title type="html">下载安装</title>
     <id>https://umajs.github.io/zh_TW/guide/install.html</id>
     <link href="https://umajs.github.io/zh_TW/guide/install.html"/>
-    <updated>2022-03-10T12:59:08.434Z</updated>
+    <updated>2022-03-10T13:04:56.655Z</updated>
     <content type="html"><![CDATA[<h1 id="下载安装" tabindex="-1"> 下载安装</h1>
 <h2 id="操作系统" tabindex="-1"> 操作系统</h2>
 <p>GameAI.win 在以下平台中可用：</p>
@@ -937,7 +937,7 @@ time_ms: 到指定角度后保持的时间，单位毫秒，默认为50毫秒</p
     <title type="html">新手上路</title>
     <id>https://umajs.github.io/zh_TW/guide/start.html</id>
     <link href="https://umajs.github.io/zh_TW/guide/start.html"/>
-    <updated>2022-03-10T12:59:08.434Z</updated>
+    <updated>2022-03-10T13:04:56.655Z</updated>
     <content type="html"><![CDATA[<h1 id="新手上路" tabindex="-1"> 新手上路</h1>
 <h2 id="下载" tabindex="-1"> 下载</h2>
 <p><a href="/zh_TW/guide/install.html">下载并安装</a> 了 GameAI.win 之后，你需要注册一个帐号。</p>
