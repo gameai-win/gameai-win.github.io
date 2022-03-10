@@ -1297,7 +1297,7 @@
     "@vuepress/types" "1.9.7"
     lodash.debounce "^4.0.8"
 
-"@vuepress/plugin-back-to-top@^1.9.7":
+"@vuepress/plugin-back-to-top@^1.9.2":
   version "1.9.7"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-1.9.7.tgz#249a76d79f1e0c8c71a2804485ad0245837e6bfd"
   integrity sha512-DM1S+Q8Xn/i+zhe4zThekxb1M2abfKLklg/NKtQloklHKdNdVfk+EcxWYNmNfSii+ymDWaaG8lmH0xjVhy0iXw==
@@ -5667,10 +5667,10 @@ linkify-it@^2.0.0:
   dependencies:
     uc.micro "^1.0.1"
 
-lint-staged@^12.3.1:
-  version "12.3.1"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-12.3.1.tgz#d475b0c0d0a12d91dde58a429ac6268dea485f06"
-  integrity sha512-Ocht/eT+4/siWOZDJpNUKcKX2UeWW/pDbohJ4gRsrafAjBi79JK8kiNVk2ciIVNKdw0Q4ABptl2nr6uQAlRImw==
+lint-staged@^12.3.5:
+  version "12.3.5"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-12.3.5.tgz#8048ce048c3cac12f57200a06344a54dc91c8fa9"
+  integrity sha512-oOH36RUs1It7b9U/C7Nl/a0sLfoIBcMB8ramiB3nuJ6brBqzsWiUAFSR5DQ3yyP/OR7XKMpijtgKl2DV1lQ3lA==
   dependencies:
     cli-truncate "^3.1.0"
     colorette "^2.0.16"
@@ -8839,7 +8839,7 @@ vuepress-plugin-smooth-scroll@^0.0.10, vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.4"
 
-vuepress@^1.9.7:
+vuepress@^1.9.2:
   version "1.9.7"
   resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.9.7.tgz#2cd6709a2228f5cef588115aaeabf820ab9ed7cc"
   integrity sha512-aSXpoJBGhgjaWUsT1Zs/ZO8JdDWWsxZRlVme/E7QYpn+ZB9iunSgPMozJQNFaHzcRq4kPx5A4k9UhzLRcvtdMg==
