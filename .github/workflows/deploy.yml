@@ -25,21 +25,12 @@ jobs:
           yarn install
           yarn build
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
-          repo: gameai-win/gameai-win.github.io
-          target_branch: gh-pages
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: docs/.vuepress/dist
+          clean: true
+          git-config-name: github-actions[bot]
+          git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
 
-#      - name: Deploy
-#        uses: JamesIves/github-pages-deploy-action@v4.2.2
-#        with:
-#          branch: gh-pages
-#          folder: docs/.vuepress/dist
-#          clean: true
-#          git-config-name: github-actions[bot]
-#          git-config-email: 41898282+github-actions[bot]@users.noreply.github.com

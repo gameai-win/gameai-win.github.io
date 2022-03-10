@@ -21,7 +21,7 @@ module.exports = {
         '/': {
             lang: 'en-US',
             title: 'GameAI.win',
-            description: 'GameAI.win V is a collection of tools what will help you play game more enjoyably',
+            description: 'GameAI.win is a collection of tools what will help you play game more enjoyably',
         }
     },
     themeConfig: {
