@@ -3,3 +3,6 @@ run:
 
 push:
 	docker exec -it vue /usr/bin/git push
+	
+pull:
+	docker exec -it vue /usr/bin/git pull
