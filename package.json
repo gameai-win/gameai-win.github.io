@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.9.2",
-    "vuepress": "^1.9.2"
+    "vuepress": "^1.9.9"
   },
   "dependencies": {
     "@kidonng/vuepress-plugin-contributors": "^0.3.0",
