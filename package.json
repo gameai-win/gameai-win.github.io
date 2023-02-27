@@ -10,7 +10,7 @@
     "docs/**/*.{md,markdown}": "lint-md"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.9.2",
+    "@vuepress/plugin-back-to-top": "^1.9.9",
     "vuepress": "^1.9.2"
   },
   "dependencies": {
